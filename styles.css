@@ -233,6 +233,7 @@ h1 {
 		justify-content:center;
 		p{
 			text-align: justify;
+			font-family: Arial;
 		}
 		span {
 			@media (max-width:768px){
